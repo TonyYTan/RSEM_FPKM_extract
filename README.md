@@ -12,4 +12,4 @@ _instruciton:_
 **=====the file must be ending with "genes.results", othervise, it will not work=====**
 
 2. implement the function by "python rsem-count-and-FPKM-extract-genes.py" or "python rsem-FPKM-extract-genes.py"
-3. the output will be tap seperated files. it can be open by Rstuido with "read.table (sep = \'t')" function
+3. the output will be tap seperated files. it can be open by Rstuido with "read.table (sep = '\t')" function
